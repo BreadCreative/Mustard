@@ -23,10 +23,10 @@
 define('DB_NAME', 'mustard');
 
 /** MySQL database username */
-define('DB_USER', 'webrds');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'JGv3iwY8ssTrKsna2oC7');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'websitesrds-cluster.cluster-cgvhvb5gxn1g.eu-west-1.rds.amazonaws.com');
