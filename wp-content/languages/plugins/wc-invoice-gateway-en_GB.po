@@ -1,0 +1,136 @@
+# Translation of Plugins - WooCommerce Invoice Gateway - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WooCommerce Invoice Gateway - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-09 21:42:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WooCommerce Invoice Gateway - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://stuartduff.com"
+msgstr "http://stuartduff.com"
+
+#. Author of the plugin/theme
+msgid "Stuart Duff"
+msgstr "Stuart Duff"
+
+#. Description of the plugin/theme
+msgid "Adds Invoice payment gateway functionality to your WooCommerce store. This type of payment method is usually used in B2B transactions with account customers where taking instant digital payment is not an option."
+msgstr "Adds Invoice payment gateway functionality to your WooCommerce store. This type of payment method is usually used in B2B transactions with account customers where taking instant digital payment is not an option."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wc-invoice-gateway/"
+msgstr "https://wordpress.org/plugins/wc-invoice-gateway/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Invoice Gateway"
+msgstr "WooCommerce Invoice Gateway"
+
+#: wc-invoice-gateway.php:181
+msgid "Settings"
+msgstr "Settings"
+
+#: wc-invoice-gateway.php:181
+msgid "View WooCommerce Settings"
+msgstr "View WooCommerce Settings"
+
+#: wc-invoice-gateway.php:157
+msgid "Install WooCommerce"
+msgstr "Install WooCommerce"
+
+#: wc-invoice-gateway.php:157
+msgid "The WooCommerce Invoice Gateway extension requires that you have the WooCommerce core plugin installed and activated."
+msgstr "The WooCommerce Invoice Gateway extension requires that you have the WooCommerce core plugin installed and activated."
+
+#: classes/class-wc-invoice-gateway.php:228
+msgid "Awaiting invoice payment"
+msgstr "Awaiting invoice payment"
+
+#: classes/class-wc-invoice-gateway.php:125
+msgid "Accept Invoice if the order is virtual"
+msgstr "Accept Invoice if the order is virtual"
+
+#: classes/class-wc-invoice-gateway.php:124
+msgid "Accept for virtual orders"
+msgstr "Accept for virtual orders"
+
+#: classes/class-wc-invoice-gateway.php:120
+msgid "Select shipping methods"
+msgstr "Select shipping methods"
+
+#: classes/class-wc-invoice-gateway.php:116
+msgid "If Invoice is only available for certain methods, set it up here. Leave blank to enable for all methods."
+msgstr "If Invoice is only available for certain methods, set it up here. Leave blank to enable for all methods."
+
+#: classes/class-wc-invoice-gateway.php:111
+msgid "Enable for shipping methods"
+msgstr "Enable for shipping methods"
+
+#: classes/class-wc-invoice-gateway.php:107
+msgid "Select order status"
+msgstr "Select order status"
+
+#: classes/class-wc-invoice-gateway.php:99
+msgid "Choose the order status that will be set after checkout"
+msgstr "Choose the order status that will be set after checkout"
+
+#: classes/class-wc-invoice-gateway.php:94
+msgid "Choose and order status"
+msgstr "Choose and order status"
+
+#: classes/class-wc-invoice-gateway.php:90
+msgid "If you're an account customer you'll be invoiced soon with regards to payment for your order."
+msgstr "If you're an account customer you'll be invoiced soon with regards to payment for your order."
+
+#: classes/class-wc-invoice-gateway.php:89
+msgid "Instructions that will be added to the thank you page after checkout and included within the new order email."
+msgstr "Instructions that will be added to the thank you page after checkout and included within the new order email."
+
+#: classes/class-wc-invoice-gateway.php:87
+msgid "Instructions"
+msgstr "Instructions"
+
+#: classes/class-wc-invoice-gateway.php:83
+msgid "Thank you for your order. You'll be invoiced soon."
+msgstr "Thank you for your order. You'll be invoiced soon."
+
+#: classes/class-wc-invoice-gateway.php:82
+msgid "Payment method description which the user sees during checkout."
+msgstr "Payment method description which the user sees during checkout."
+
+#: classes/class-wc-invoice-gateway.php:80
+msgid "Description"
+msgstr "Description"
+
+#: classes/class-wc-invoice-gateway.php:76
+msgid "Invoice Payment"
+msgstr "Invoice Payment"
+
+#: classes/class-wc-invoice-gateway.php:75
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+#: classes/class-wc-invoice-gateway.php:73
+msgid "Title"
+msgstr "Title"
+
+#: classes/class-wc-invoice-gateway.php:69
+msgid "Enable Invoice Payment"
+msgstr "Enable Invoice Payment"
+
+#: classes/class-wc-invoice-gateway.php:67
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: classes/class-wc-invoice-gateway.php:26
+msgid "Allows invoice payments. Sends an order email to the store admin who'll have to manually create and send an invoice to the customer."
+msgstr "Allows invoice payments. Sends an order email to the store admin who'll have to manually create and send an invoice to the customer."
+
+#: classes/class-wc-invoice-gateway.php:25
+msgid "Invoice Payments"
+msgstr "Invoice Payments"

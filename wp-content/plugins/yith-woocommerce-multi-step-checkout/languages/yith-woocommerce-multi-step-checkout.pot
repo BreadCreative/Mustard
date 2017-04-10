@@ -1,0 +1,242 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Multi-step Checkout\n"
+"POT-Creation-Date: 2016-10-17 14:17+0200\n"
+"PO-Revision-Date: 2015-04-20 10:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_n_noop:1,2;"
+"_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-multistep-checkout-admin.php:92
+msgid "Multi-step Checkout"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:95
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:100
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:171
+msgid "Plugin documentation"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:175
+msgid "Help Center"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:182
+msgid "Discover the premium version"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:187
+msgid "Free vs Premium"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:192
+msgid "Premium live demo"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:197
+msgid "WordPress support forum"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:202
+#: includes/class.yith-multistep-checkout-admin.php:214
+msgid "Changelog"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:202
+#: includes/class.yith-multistep-checkout-admin.php:214
+msgid "current version"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:209
+msgid "Support platform"
+msgstr ""
+
+#: init.php:34
+msgctxt "Alert Message: WooCommerce require"
+msgid ""
+"YITH WooCommerce Multi-step Chekcout is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: panel/settings-options.php:21
+msgctxt "Panel: page title"
+msgid "General settings"
+msgstr ""
+
+#: panel/settings-options.php:28
+msgctxt "Admin option: Enable plugin"
+msgid "Enable Multi-step Checkout"
+msgstr ""
+
+#: panel/settings-options.php:30
+msgctxt "Admin option description: Enable plugin"
+msgid "Check this option to enable plugin features"
+msgstr ""
+
+#: templates/premium.php:223 templates/premium.php:333
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Multi-step "
+"Checkout%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/premium.php:226 templates/premium.php:336
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/premium.php:227 templates/premium.php:337
+msgid "to the premium version"
+msgstr ""
+
+#: templates/premium.php:233
+msgid "Premium Features"
+msgstr ""
+
+#: templates/premium.php:241
+msgid "Display styles"
+msgstr ""
+
+#: templates/premium.php:244
+#, php-format
+msgid ""
+"4 different types to shape your site checkout steps. %1$s4 different layouts"
+"%2$s  to let you find the best solution for you and the most suitable for "
+"the graphic style of your pages.%3$sBut, this is not all! Opt for "
+"%1$svertical display%2$s if you want to show all steps as if they were all "
+"elements belonging to a sidebar."
+msgstr ""
+
+#: templates/premium.php:254
+msgid "Custom layout"
+msgstr ""
+
+#: templates/premium.php:257
+#, php-format
+msgid ""
+"Select your favourite %1$sstyle%2$s for your the steps of your checkout "
+"page and customise it in every detail thanks to the many options made "
+"available by thepremium version of the plugin.%3$sAnd in case %1$slabels"
+"%2$s associated to the steps were not what you need, you will be able to "
+"change them from plugin option panel. Useful, easy and quick!"
+msgstr ""
+
+#: templates/premium.php:273
+msgid "Icon or number"
+msgstr ""
+
+#: templates/premium.php:276
+#, php-format
+msgid ""
+"Unless you have chosen textual style, each step of your checkout will be "
+"marked by a distinctive number or icon. In the latter case, you can either "
+"use icons made availale by the plugin or upload your own custom icons. "
+"Another way to %1$smake your checkout page more intuitive%2$s for your "
+"customers."
+msgstr ""
+
+#: templates/premium.php:286
+msgid "Ajax validation"
+msgstr ""
+
+#: templates/premium.php:289
+#, php-format
+msgid ""
+"Anyone willing to purchase from your shop will have to add certain specific "
+"data concerning their own profile and payment method they prefer. Activate "
+"%1$sajax validation%2$s if you want that your customers can access the "
+"following step only if they have first entered all information correctly in "
+"the previous step."
+msgstr ""
+
+#: templates/premium.php:305
+msgid "Navigation buttons"
+msgstr ""
+
+#: templates/premium.php:308
+#, php-format
+msgid ""
+"Navigation buttons can help users realise they are in a checkout process "
+"made of more than one step.%3$sYet, if you think they are superfluous, "
+"nothing prevents you from using the specific option to hide them. Anyway, "
+"the %1$sstate of process%2$s will be visible and each step will be "
+"accessible from the timeline."
+msgstr ""
+
+#: templates/premium.php:318
+msgid "“My account” and “Order received” pages"
+msgstr ""
+
+#: templates/premium.php:321
+#, php-format
+msgid ""
+"A section of your option panel devoted to customisation of color patterns "
+"of “My account” and “Order received” pages, or better the page where users "
+"are redirected after completing purchase.%3$s%1$sYITH WooCommerce Multi-"
+"step Checkout%2$s has thought of everything!"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:30
+msgid "Next"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:31
+msgid "Previous"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:32
+msgctxt "Checkout: user timeline"
+msgid "Login"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:33
+msgctxt "Checkout: user timeline"
+msgid "Billing"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:34
+msgctxt "Checkout: user timeline"
+msgid "Shipping"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:35
+msgctxt "Checkout: user timeline"
+msgid "Order Info"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:36
+msgctxt "Checkout: user timeline"
+msgid "Payment Info"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:72
+msgid ""
+"If you have already registered, please, enter your details in the boxes "
+"below. If you are a new customer, please, go to the Billing &amp; Shipping "
+"section."
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:84
+msgid "You must be logged in before proceeding to checkout."
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:113
+msgid "Your order"
+msgstr ""
